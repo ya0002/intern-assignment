@@ -14,10 +14,6 @@ saved images back
 • Bonus Points: Display state of the Traffic Light in as a text – Each rectangle also in addition has 
 “name” which is state of the traffic light, your task is to display this as a text for each traffic 
 light on the image.
-• Submit your solution as a zip file. It should contain solution images, your code, along with a 
-simple presentation on your approach and pseudo code to solve this assignment
-• Email the zip files to mayukh@aspiringzero.com and dheemanth@aspiringzero.com or upload 
-it to your githib and send us the link. Good luck! 
 • Tips:
 ◦ Write your code in a modular (with functions) fashion
 ◦ Use cv2 in python – this should have all necessary functions to achieve this task
